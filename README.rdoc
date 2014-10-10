@@ -1,28 +1,18 @@
-== README
+== Rails Site Template
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+== Specifications
 
-Things you may want to cover:
+* Rails 4.1.6
 
-* Ruby version
+* Ruby 2.0.0
 
-* System dependencies
+* SQLite3
 
-* Configuration
+== Contributing
 
-* Database creation
+Feel free to contribute, just fork this repo!
 
-* Database initialization
+== License
 
-* How to run the test suite
+(The MIT License) Copyright (c) 2014 Kyle Maune
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
