@@ -2,7 +2,7 @@
 
 == Todo
 
-* Add the ability to tag
+* Add the ability to tag posts
 
 * Add authentication 
 
