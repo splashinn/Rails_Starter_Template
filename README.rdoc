@@ -1,5 +1,13 @@
 == Rails Site Template
 
+== Todo
+
+* Add the ability to tag
+
+* Add authentication 
+
+* Anything else?
+
 == Specifications
 
 * Rails 4.1.6
